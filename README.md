@@ -5,7 +5,7 @@ I’m a second-year B.Tech student passionate about technology, problem-solving,
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
----
+
 
 
 ## 🌐 Socials:
