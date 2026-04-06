@@ -1,6 +1,12 @@
 # 💫 About Me:
 I’m a second-year B.Tech student passionate about technology, problem-solving, and building practical projects. Currently, I’m learning and exploring  Web Development, Data Structures, Python, Java to strengthen my technical skills.<br><br>🎓 Pursuing B.Tech in Computer Science <br><br>💻 Interested in Cybersecurity <br><br>🌱 Currently learning Web Development <br><br>⚡ Enjoy solving coding challenges and working on innovative projects<br><br>🤝 Open to collaboration and learning from real-world projects
 
+---
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+---
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/himanshu_13_2006) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/himanshu-rout-7b511a384/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himanshurout136@gmail.com) 
