@@ -44,6 +44,13 @@ I’m a second-year B.Tech Computer Science student passionate about Cybersecuri
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+## 🌐 Portfolio
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF99?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://himanshuroutportfolio.netlify.app/)
+
+🔗 **Live Portfolio:** https://himanshuroutportfolio.netlify.app/
+
+Explore my projects, skills, and achievements through my interactive portfolio website.
 
 
 
