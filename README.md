@@ -1,3 +1,5 @@
+<div align="center"> <table> <tr> <td width="42%" valign="top"><picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=himanshukumarrout&theme=aurora&style=terminal&mode=light" /> <img src="https://www.gitskins.com/api/section/portrait?username=himanshukumarrout&theme=aurora&style=terminal&mode=dark" width="100%" alt="himanshukumarrout portrait" /> </picture></td> <td width="58%" valign="top"><picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=himanshukumarrout&theme=aurora&style=terminal&label=HIMANSHU+KUMAR+ROUT&mode=light" /> <img src="https://www.gitskins.com/api/section/wordmark?username=himanshukumarrout&theme=aurora&style=terminal&label=HIMANSHU+KUMAR+ROUT&mode=dark" width="100%" alt="himanshukumarrout wordmark" /> </picture></td> </tr> </table>
+
 <h1>
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=42&duration=2500&pause=1000&color=00FF99&vCenter=true&width=850&lines=👋+Hi,+I'm+Himanshu+Kumar+Rout"
