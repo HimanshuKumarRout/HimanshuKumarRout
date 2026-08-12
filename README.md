@@ -1,4 +1,11 @@
-<div align="center"> <table> <tr> <td width="42%" valign="top"><picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=himanshukumarrout&theme=aurora&style=terminal&mode=light" /> <img src="https://www.gitskins.com/api/section/portrait?username=himanshukumarrout&theme=aurora&style=terminal&mode=dark" width="100%" alt="himanshukumarrout portrait" /> </picture></td> <td width="58%" valign="top"><picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=himanshukumarrout&theme=aurora&style=terminal&label=HIMANSHU+KUMAR+ROUT&mode=light" /> <img src="https://www.gitskins.com/api/section/wordmark?username=himanshukumarrout&theme=aurora&style=terminal&label=HIMANSHU+KUMAR+ROUT&mode=dark" width="100%" alt="himanshukumarrout wordmark" /> </picture></td> </tr> </table>
+<div align="center"> <table> <tr> <td width="42%" valign="top"><picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=himanshukumarrout&theme=aurora&style=terminal&mode=light" /> <img src="https://www.gitskins.com/api/section/portrait?username=himanshukumarrout&theme=aurora&style=terminal&mode=dark" width="100%" alt="himanshukumarrout portrait" /> </picture></td> <td width="58%" valign="top"><picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=himanshukumarrout&theme=aurora&style=terminal&label=HIMANSHU+KUMAR+ROUT&mode=light" /> <img src="https://www.gitskins.com/api/section/wordmark?username=himanshukumarrout&theme=aurora&style=terminal&label=HIMANSHU+KUMAR+ROUT&mode=dark" width="100%" alt="himanshukumarrout wordmark" /> </picture>
+  
+<br>
+
+<p align="center"> <b>🛡️ Cybersecurity &nbsp;|&nbsp; 💻 Software Developer</b> </p>
+
+<p align="center"> Skilled in <b>Cybersecurity, SOC Analysis, Python Development, Full-Stack Development, and Web Development</b>. I enjoy learning emerging technologies, solving real-world problems, and building <b>secure, scalable, and user-friendly applications</b> while continuously improving my technical expertise. </p>
+</td> </tr> </table>
 
 <h1>
   <img 
