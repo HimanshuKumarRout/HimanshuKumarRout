@@ -27,7 +27,7 @@ I have Skilled in Cyber Security, SOC Analysis, Python Development, Full Stack D
 </p>
 
 # 💫 About Me:
-I’m a second-year B.Tech Computer Science student passionate about Cybersecurity, Software Development, and problem-solving. Currently exploring Cyber Security, SOC Analysis, Python, Full Stack Development, and Web Technologies to strengthen my technical expertise.
+I’m a B.Tech Computer Science student passionate about Cybersecurity, Software Development, and problem-solving. Currently exploring Cyber Security, SOC Analysis, Python, Full Stack Development, and Web Technologies to strengthen my technical expertise.
 
 🎓 Pursuing B.Tech in Computer Science
 
